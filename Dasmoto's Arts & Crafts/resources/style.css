@@ -1,0 +1,39 @@
+
+/*Apply font to entire page*/
+body {
+  font-family: Helvetica;
+}
+
+/*Apply style to main heading of the website*/
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg');
+}
+
+/* style for the headers of the different sections */
+h2 {
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+/* style for product pricing */
+span {
+  font-weight: bold;
+  color: blue;
+}
